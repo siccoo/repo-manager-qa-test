@@ -56,9 +56,11 @@ The test plan covers the following key functionalities:
 ## 3. Automation Approach
 
 ### Tests to Automate
-**Smoke Tests:** Verify core functionalities like login, repository creation.
-**Regression Tests:** Ensure new updates do not break existing features.
-**API Testing:** Automate REST API validation for repositories and issues.
+```
+- Smoke Tests: Verify core functionalities like login, repository creation.
+- Regression Tests: Ensure new updates do not break existing features.
+- API Testing: Automate REST API validation for repositories and issues.
+```
 
 ### Sample Automated Test Script (Cypress - JavaScript)
 
