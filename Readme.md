@@ -40,7 +40,7 @@ npx cypress run
 ### Bug Reporting & Tracking
 ```
 - All bugs should be logged using GitHub Issues.
-- Follow the provided bug reporting template in test-strategy.md.
+- Follow the provided bug reporting template in test-strategy.md file.
 ```
 
 ### CI/CD Integration
