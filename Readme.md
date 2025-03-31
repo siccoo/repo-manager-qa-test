@@ -48,4 +48,4 @@ npx cypress run
 - Cypress tests can be integrated with GitHub Actions.
 ```
 
-**Notes:** If you run cypress on *repoCreation.spec.js*, you will get an error, because it's hypothectical and not *actual* or *real*. But I have to show because it was requested the Framework choice. All of the answers is in **test-strategy.md** file and the cypress test file is also in **repoCreation.spec.cy.js**.
+**Notes:** If you run cypress on *repoCreation.spec.js*, you will get an error, because it's hypothectical and not *actual* or *real* web app. But I have to show because it was requested the Framework choice. All of the answers is in **test-strategy.md** file and the cypress test file is also in **repoCreation.spec.cy.js**.
